@@ -75,8 +75,8 @@
 
 ### 目录结构
 
->   1. server 是服务器
->   2. public 是静态文件
+> 1. server 是服务器
+> 2. public 是静态文件
 >   3. db 是MongoDB导出备份
 >   4. src 是项目文件夹
 
